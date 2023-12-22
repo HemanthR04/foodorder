@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+div{
+    border: 1px solid red;
+}
+
+
+.marginX{
+    margin-left: calc(10% + 36px);
+    margin-right: calc(10% + 36px);
+}
